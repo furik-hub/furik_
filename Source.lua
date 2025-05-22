@@ -170,7 +170,7 @@ local function createMainMenu(player, remaining)
     -- Заголовок (белый текст)
     local title = Instance.new("TextLabel")
     title.Name = "Title"
-    title.Text = "FURIZAN SCRIPT"
+    title.Text = "TG:furizanscript"
     title.Size = UDim2.new(0.8, 0, 0.1, 0)
     title.Position = UDim2.new(0.1, 0, 0.02, 0)
     title.BackgroundTransparency = 1
