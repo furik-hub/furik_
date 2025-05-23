@@ -10,7 +10,7 @@ local SoundService = game:GetService("SoundService")
 -- Настройки
 local TELEGRAM_LINK = "https://t.me/furizanscript"
 local KEYS = {
-    ["И"] = 100,  -- Тестовый ключ для проверки
+    ["TG:furizanscript"] = 100,  -- Тестовый ключ для проверки
     ["TG:furizanscript"] = 5000
 }
 local ACTIVATIONS = {}
